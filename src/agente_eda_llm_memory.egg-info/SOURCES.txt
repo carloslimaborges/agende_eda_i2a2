@@ -1,0 +1,12 @@
+pyproject.toml
+src/agente_eda/__init__.py
+src/agente_eda/eda.py
+src/agente_eda/insights.py
+src/agente_eda/llm.py
+src/agente_eda/loader.py
+src/agente_eda/memory.py
+src/agente_eda_llm_memory.egg-info/PKG-INFO
+src/agente_eda_llm_memory.egg-info/SOURCES.txt
+src/agente_eda_llm_memory.egg-info/dependency_links.txt
+src/agente_eda_llm_memory.egg-info/requires.txt
+src/agente_eda_llm_memory.egg-info/top_level.txt
